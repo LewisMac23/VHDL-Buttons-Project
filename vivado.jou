@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Mon Mar 27 12:01:22 2023
+# Process ID: 13964
+# Current directory: C:/Users/Temp/Documents/GitHub/VHDL-Buttons-Project
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent21620 C:\Users\Temp\Documents\GitHub\VHDL-Buttons-Project\VHDL - Customer Contentment Buttons.xpr
+# Log file: C:/Users/Temp/Documents/GitHub/VHDL-Buttons-Project/vivado.log
+# Journal file: C:/Users/Temp/Documents/GitHub/VHDL-Buttons-Project\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/Temp/Documents/GitHub/VHDL-Buttons-Project/VHDL - Customer Contentment Buttons.xpr}
+update_compile_order -fileset sources_1

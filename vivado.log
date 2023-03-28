@@ -1,0 +1,27 @@
+#-----------------------------------------------------------
+# Vivado v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Mon Mar 27 12:01:22 2023
+# Process ID: 13964
+# Current directory: C:/Users/Temp/Documents/GitHub/VHDL-Buttons-Project
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent21620 C:\Users\Temp\Documents\GitHub\VHDL-Buttons-Project\VHDL - Customer Contentment Buttons.xpr
+# Log file: C:/Users/Temp/Documents/GitHub/VHDL-Buttons-Project/vivado.log
+# Journal file: C:/Users/Temp/Documents/GitHub/VHDL-Buttons-Project\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/Temp/Documents/GitHub/VHDL-Buttons-Project/VHDL - Customer Contentment Buttons.xpr}
+INFO: [Project 1-313] Project file moved from 'H:/VHDL/VHDL - Customer Contentment Buttons' since last save.
+CRITICAL WARNING: [Project 1-311] Could not find the file 'C:/Users/Temp/Documents/GitHub/VHDL-Buttons-Project/VHDL - Customer Contentment Buttons.srcs/sources_1/new/custButtons.vhd', nor could it be found using path 'H:/VHDL/VHDL - Customer Contentment Buttons/VHDL - Customer Contentment Buttons.srcs/sources_1/new/custButtons.vhd'.
+Scanning sources...
+Finished scanning sources
+WARNING: [filemgmt 56-2] Default IP Output Path : Could not find the directory 'C:/Users/Temp/Documents/GitHub/VHDL-Buttons-Project/VHDL - Customer Contentment Buttons.srcs/sources_1', nor could it be found using path 'H:/VHDL/VHDL - Customer Contentment Buttons/VHDL - Customer Contentment Buttons.srcs/sources_1'.
+WARNING: [filemgmt 56-2] IPUserFilesDir: Could not find the directory 'C:/Users/Temp/Documents/GitHub/VHDL-Buttons-Project/VHDL - Customer Contentment Buttons.ip_user_files', nor could it be found using path 'H:/VHDL/VHDL - Customer Contentment Buttons/VHDL - Customer Contentment Buttons.ip_user_files'.
+CRITICAL WARNING: [Board 49-67] The board_part definition was not found for digilentinc.com:basys3:part0:1.1. This can happen sometimes when you use custom board part. You can resolve this issue by setting 'board.repoPaths' parameter, pointing to the location of custom board files. Valid board_part values can be retrieved with the 'get_board_parts' Tcl command.
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Users/Temp/Desktop/Vivado/2020.1/data/ip'.
+open_project: Time (s): cpu = 00:00:05 ; elapsed = 00:00:08 . Memory (MB): peak = 1018.043 ; gain = 0.000
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Mon Mar 27 12:02:52 2023...
